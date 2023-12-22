@@ -20,7 +20,7 @@ public class Server {
 	private Connection conn;
     private static final String URL = "jdbc:mysql://localhost:3306/talk_DB";
     private static final String USER = "root";
-    private static final String PASSWORD = "Whgustjr92@@";
+    private static final String PASSWORD = "####";
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
 	public Server() {
 
